@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Detox Launcher</string>
+    <string name="accessibility_service_description">
+        Detox Launcher uses this accessibility service to monitor app usage and enforce digital wellness goals.
+        This service helps block distracting apps when you reach your daily limit and tracks your phone usage.
+        No personal data is collected or shared.
+    </string>
+</resources>

@@ -1,0 +1,14 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the Flutter SDK.
+# Update this path to match your Flutter installation.
+# On macOS/Linux, you can get this by running: which flutter
+# On Windows: where flutter
+
+sdk.dir=/path/to/Android/sdk
+flutter.sdk=/path/to/flutter
+
+# Example:
+# sdk.dir=/Users/yourname/Library/Android/sdk
+# flutter.sdk=/Users/yourname/development/flutter
