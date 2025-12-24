@@ -8,7 +8,7 @@ class GeminiService {
   GenerativeModel? _model;
 
   // Using provided API key
-  static const String _apiKey = 'AIzaSyAldFRLFhytmY89-4-TPsB0RvvT20R2yE0';
+  static const String _apiKey = 'YOUR_API_KEY';
 
   // Singleton instance
   static final GeminiService _instance = GeminiService._internal();
